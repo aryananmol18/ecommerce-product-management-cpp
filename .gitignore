@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+
+# Backup files
+*~
+
+# Executable files
+*.out
+*.exe
+
+# CMake build directory
+build/
+
+# Visual Studio Code files
+.vscode/
+
+# Code::Blocks project files
+*.cbp
+*.layout
+
+# Qt Creator files
+*.pro.user
